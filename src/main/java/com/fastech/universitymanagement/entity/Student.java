@@ -16,5 +16,4 @@ public class Student {
     private String name;
     private Integer semester;
     private String email;
-
 }
