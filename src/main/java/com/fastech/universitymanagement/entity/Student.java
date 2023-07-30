@@ -8,6 +8,7 @@ import javax.persistence.*;
 @Setter
 @Getter
 public class Student {
+    
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Integer id;
